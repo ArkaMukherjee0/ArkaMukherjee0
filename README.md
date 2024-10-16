@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArkaMukherjee0
+- 👋 Hi, I’m Arka Mukherjee, an undergraduate sophomore at KIIT CSE
 - 👀 I’m interested in LLMs and Deep Neural Networks
 - 🌱 I’m currently learning multimodality in language models
 - 💞️ I’m looking to collaborate on NLP research

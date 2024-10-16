@@ -42,7 +42,7 @@
 
 ### 📫 Get in Touch!
 - 📧 **Email:** [arka.mukherjee078@gmail.com](mailto:arka.mukherjee078@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arka-mukherjee2020/) | [Twitter](https://x.com/CyberTechTok)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arka-mukherjee2020/) | 🐦 [Twitter](https://x.com/CyberTechTok) | 🎥 [YouTube](https://www.youtube.com/@CyberTechTok)
 
 ---
 

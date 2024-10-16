@@ -13,9 +13,7 @@
   - Large Language Models (LLMs)  
   - Deep Neural Networks  
   - Vision Language Models & Multimodality  
-  - Machine Unlearning  
-  - Generative AI  
-  - Vision Transformers
+  - Generative AI
   - Graphics Processing Units (GPUs)
 
 - 🌱 **Currently Learning:**  

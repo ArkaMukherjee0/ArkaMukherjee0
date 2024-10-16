@@ -16,6 +16,7 @@
   - Machine Unlearning  
   - Generative AI  
   - Vision Transformers
+  - Graphics Processing Units (GPUs)
 
 - 🌱 **Currently Learning:**  
   Exploring **multimodality** in language models and integrating **vision transformers** into personal projects.

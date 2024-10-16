@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arka Mukherjee!
+# 👋 Hi there, I'm Arka!
 
 **Undergraduate Sophomore @ KIIT (CSE) | LLM Enthusiast | Deep Neural Networks Explorer**
 

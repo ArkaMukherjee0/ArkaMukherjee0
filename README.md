@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Arka!
 
-**Undergraduate Sophomore @ KIIT (CSE) | LLM Enthusiast | Deep Neural Networks Explorer**
+**Undergraduate Sophomore @ KIIT (CSE) | LLM & GPU Enthusiast | Tech Journalist**
 
 <div align="center">
   <img src="https://wgmimedia.com/wp-content/uploads/2023/04/Learn-any-skills-with-chatgpt2.gif" alt="Learn any skills with ChatGPT GIF" width="400"/>

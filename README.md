@@ -31,8 +31,8 @@
 - 🔧 **LLM Fine-Tuning:**  
   Hands-on experience with **Llama 3.2**, **Llava**, and more.
   
-- 🎨 **Generative AI:**  
-  Applying AI to creative processes, pushing the boundaries of what models can do.
+- 🎨 **AI Safety and Robustness:**  
+  Experience in building modality-agnostic **guardrails** and implementing LLM **unlearning techniques.**
 
 - 🧠 **Vision Transformers:**  
   Delving into **ViTs** to improve personal projects related to **vision-based AI**.

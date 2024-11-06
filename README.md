@@ -20,7 +20,7 @@
   Exploring **multimodality** in language models and integrating **vision transformers** into personal projects.
 
 - 💞️ **Looking to Collaborate On:**  
-  Research opportunities in **NLP**, **multimodal models**, and **AI advancements**.
+  Research opportunities in **NLP**, **multimodal models**, and **Computer Vision**.
 
 - ⚡ **Fun Fact:**  
   GPUs are my first love! 💻❤️ 

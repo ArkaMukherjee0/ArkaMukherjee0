@@ -17,7 +17,7 @@
   - Graphics Processing Units (GPUs)
 
 - 🌱 **Currently Learning:**  
-  Exploring **multimodality** in language models and integrating **vision transformers** into personal projects.
+  Exploring **agentic and compound AI systems** and integrating **multimodality** into personal projects.
 
 - 💞️ **Looking to Collaborate On:**  
   Research opportunities in **NLP**, **multimodal models**, and **Computer Vision**.

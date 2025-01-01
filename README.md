@@ -3,7 +3,7 @@
 **Undergraduate Sophomore @ KIIT (CSE) | LLM & GPU Enthusiast | Tech Journalist**
 
 <div align="center">
-  <img src="https://wgmimedia.com/wp-content/uploads/2023/04/Learn-any-skills-with-chatgpt2.gif" alt="Learn any skills with ChatGPT GIF" width="400"/>
+  <img src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif" alt="Learn any skills with ChatGPT GIF" width="400"/>
 </div>
 
 ---

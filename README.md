@@ -1,18 +1,18 @@
 # 👋 Hi there, I'm Arka!
 
-**Undergraduate Sophomore @ KIIT (CSE) | LLM & GPU Enthusiast | Tech Journalist**
+**UG Researcher @ IIT Bhubaneswar, RespAI Lab | NLP, Computational Linguistics | Tech Journalist**
 ---
 
 ### 🚀 About Me
 - 👀 **I’m passionate about:**  
   - Large Language Models (LLMs)  
-  - Deep Neural Networks  
-  - Vision Language Models & Multimodality  
-  - Generative AI
+  - Computational Linguistics
+  - Misinformation Detection
+  - Vision Language Models & Multimodality
   - Graphics Processing Units (GPUs)
 
 - 🌱 **Currently Learning:**  
-  Exploring **agentic and compound AI systems** and integrating **multimodality** into personal projects.
+  Exploring **LLM evaluation** and researching **multimodality translation** for classification tasks.
 
 - 💞️ **Looking to Collaborate On:**  
   Research opportunities in **NLP**, **multimodal models**, and **Computer Vision**.
@@ -27,10 +27,10 @@
   Hands-on experience with **Llama 3.2**, **Llava**, and more.
   
 - 🎨 **AI Safety and Robustness:**  
-  Experience in building modality-agnostic **guardrails** and implementing LLM **unlearning techniques.**
+  Experience in building modality-agnostic **guardrails** and implementing LLM **evaluation techniques.**
 
-- 🧠 **Vision Transformers:**  
-  Delving into **ViTs** to improve personal projects related to **vision-based AI**.
+- 🧠 **Language Model Training and Data Curation:**  
+  Perfecting data collection and curation skills for **multimodal language model training.**
 
 ---
 

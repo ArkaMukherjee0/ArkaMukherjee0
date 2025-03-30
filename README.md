@@ -1,11 +1,6 @@
 # 👋 Hi there, I'm Arka!
 
 **Undergraduate Sophomore @ KIIT (CSE) | LLM & GPU Enthusiast | Tech Journalist**
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif" alt="Learn any skills with ChatGPT GIF" width="400"/>
-</div>
-
 ---
 
 ### 🚀 About Me

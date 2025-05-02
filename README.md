@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Arka!
 
-**UG Researcher @ IIT Bhubaneswar & RespAI Lab | NLP, Computational Linguistics**
+**UG Researcher @ IIT Bhubaneswar & RespAI Lab | NLP, Language Modeling**
 ---
 
 ### 🚀 About Me

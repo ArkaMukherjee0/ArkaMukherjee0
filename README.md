@@ -15,7 +15,7 @@
   Exploring **LLM evaluation** and researching **multimodality translation** for classification tasks.
 
 - 💞️ **Looking to Collaborate On:**  
-  Research opportunities in **NLP**, **multimodal models**, and **Computer Vision**.
+  Research opportunities in **NLP**, **multimodal models**, and **language evaluation**.
 
 - ⚡ **Fun Fact:**  
   GPUs are my first love! 💻❤️ 

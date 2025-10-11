@@ -25,7 +25,7 @@
 ## 🛠️ Technical Expertise
 
 **Multimodal AI**
-- VLM evaluation at scale (17 models, 1,460 questions, k=10 runs)
+- VLM evaluation at scale (17 models, 1,460 questions, pass@k)
 - Benchmark development (bilingual, multimodal, exam-style constraints)
 - Metacognitive pipeline design (error detection, self-correction, confidence calibration) on LLMs
 

@@ -9,6 +9,7 @@
 
 📝 **Publications & Preprints**
 - **ICCV 2025 Workshop** (Accepted): Evaluating cultural competence in VLMs through multimodal story generation (ASI 2025 Oral)
+- **NeurIPS 2025 Workshop** (Accepted): Alternative metrics for multimodal and bilingual math reasoning evaluation (MATH-AI Poster)
 
 🏆 **Honors & Recognition**
 - **IASc-INSA-NASI Summer Research Fellow** (2025) — National science academies fellowship

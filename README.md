@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Arka Mukherjee
+# 👋 Hi, I'm Arka!
 
-**Undergraduate Researcher @ IIT Bhubaneswar**  
+**UG Researcher @ IIT Bhubaneswar**  
 *Vision-Language Models | Multimodal Reasoning | Evaluation & Benchmarking*
 
 ## 📫 Connect With Me

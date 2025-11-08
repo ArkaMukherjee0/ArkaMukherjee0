@@ -13,4 +13,4 @@
 
 ---
 
-⚡ **Fun Fact**: I've published 600+ tech articles (10M+ reads) and collaborated with Nvidia, AMD, and ASUS on hardware reviews — because GPUs are life! 💻❤️
+⚡ **Fun Fact**: I'm a published tech journalist (10M+ reads) and collaborate with Nvidia, AMD, and ASUS on graphics cards reviews — because GPUs are life! 💻❤️

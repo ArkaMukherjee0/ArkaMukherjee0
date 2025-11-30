@@ -3,6 +3,8 @@
 **UG Researcher @ IIT Bhubaneswar**  
 *Vision-Language Models | Multimodal Reasoning | Evaluation & Benchmarking*
 
+**[NEWS] mmJEE-Eval is now live! Project page: [https://mmjee-eval.github.io](https://mmjee-eval.github.io)**
+
 ## 📫 Connect With Me
 
 📧 **Email**: [arka.mukherjee078@gmail.com](mailto:arka.mukherjee078@gmail.com)  

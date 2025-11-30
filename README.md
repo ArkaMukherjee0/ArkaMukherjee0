@@ -10,8 +10,9 @@
 📧 **Email**: [arka.mukherjee078@gmail.com](mailto:arka.mukherjee078@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/arka-mukherjee2020](https://www.linkedin.com/in/arka--mukherjee/)  
 🐦 **Twitter/X**: [@CyberTechTok](https://x.com/CyberTechTok)  
+🌐 **Website**: [cybertechtok.com](https://www.cybertechtok.com)  
 🎥 **YouTube**: [Tech Reviews & GPU Content](https://www.youtube.com/@CyberTechTok)  
-📄 **CV**: [View Resume](https://drive.google.com/file/d/1JXWtzCkiUZkXm59fwSc6sBSv0esK21cx/view?usp=sharing)
+📄 **CV**: [View Resume](https://drive.google.com/file/d/1OePGpMfo9Zk1Esd4GksAp0RIvFjUOZul/view?usp=sharing)
 
 ---
 

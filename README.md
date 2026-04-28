@@ -12,7 +12,7 @@
 🐦 **Twitter/X**: [@CyberTechTok](https://x.com/CyberTechTok)  
 🌐 **Website**: [cybertechtok.com](https://www.cybertechtok.com)  
 🎥 **YouTube**: [Tech Reviews & GPU Content](https://www.youtube.com/@CyberTechTok)  
-📄 **CV**: [View Resume](https://drive.google.com/file/d/1OePGpMfo9Zk1Esd4GksAp0RIvFjUOZul/view?usp=sharing)
+📄 **CV**: [View Resume](https://drive.google.com/file/d/1OttwAsC5dMhOGy1lJHztuCpx6KD-qHzP/view?usp=sharing)
 
 ---
 

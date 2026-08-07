@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Arka!
 
-**UG Researcher @ IIT Bhubaneswar**  
-*Vision-Language Models | Multimodal Reasoning | Evaluation & Benchmarking*
+**Intern @ USC, UG Researcher @ IIT Bhubaneswar**  
 
 **[NEWS] mmJEE-Eval is now live! Project page: [https://mmjee-eval.github.io](https://mmjee-eval.github.io)**
 

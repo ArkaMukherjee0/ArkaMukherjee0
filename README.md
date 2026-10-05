@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arka!
 
-**Intern @ USC, UG Researcher @ IIT Bhubaneswar**  
+**Intern @ AMD | Prev: Inter @ USC, UG Researcher @ IIT Bhubaneswar**  
 
 **[NEWS] mmJEE-Eval is now live! Project page: [https://mmjee-eval.github.io](https://mmjee-eval.github.io)**
 
